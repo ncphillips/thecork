@@ -13,3 +13,5 @@ fields:
   label: Date
   config:
     date_format: YYYY-MM-DD
+pages:
+- index.md
