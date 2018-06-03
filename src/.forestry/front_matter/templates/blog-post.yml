@@ -1,0 +1,15 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: text
+  name: path
+  label: Path
+- type: datetime
+  name: date
+  label: Date
+  config:
+    date_format: YYYY-MM-DD
